@@ -1,5 +1,4 @@
-# topo-learning
-Topology of Learning in Artificial Neural Networks
+# Topology of Learning in Artificial Neural Networks
 
 Companion code for the paper https://arxiv.org/abs/1902.08160
 
